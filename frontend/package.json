@@ -1,0 +1,40 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-charts": "^6.0.0-alpha.5",
+    "@mui/x-date-pickers": "^6.10.2",
+    "material-react-table": "^1.14.0",
+    "moment": "^2.29.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "sass": "^1.64.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-plugin-react": "^7.33.0"
+  }
+}
